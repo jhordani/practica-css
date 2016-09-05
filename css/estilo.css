@@ -79,4 +79,13 @@ h1 {
 }
 
 
+/*
+p[id]{
+    background: #000;
+}*/
 
+
+/*Selector de atributos separados por espacios*/
+p[id ~="texto"]{
+    background: blue;
+}
