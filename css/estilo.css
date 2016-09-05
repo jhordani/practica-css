@@ -1,0 +1,82 @@
+
+/**{
+    background: #1da1c9;
+    color: #0e0f0f;
+}*/
+
+/*selector de etiqueta*/
+/*
+a{
+    background: #cc2222;
+    color:green;
+    font-size: 300%;
+}
+*/
+
+/*selector descendente*/
+
+strong {
+    background: #be1414;
+}
+
+.negri{
+
+    background-color: aqua;
+}
+
+.uno {
+    background: red;
+}
+
+.dos {
+    background: green;
+}
+
+.tres {
+    background: yellow;
+}
+
+.cuatro {
+    background: orange;
+}
+
+
+.relleno {
+    background: aqua;
+    border: 40px;
+
+}
+/*selector de id */
+
+#one{
+    color: #61b211;
+}
+
+#two {
+    color: blue;
+}
+
+#three {
+    color: brown;
+}
+
+
+
+/*selector descendente combinado */
+
+h1 {
+    color: mediumvioletred;
+}
+
+/*selector descedndente*/
+
+
+
+#uno{
+    color: red;
+    background: #52e552;
+
+}
+
+
+
